@@ -1,5 +1,6 @@
 import { Heart, Mail, MessageCircle, Instagram, Youtube, Phone } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import { Link } from "react-router-dom"
 import lotusSymbol from "@/assets/lotus-symbol.jpg"
 
 const Footer = () => {
